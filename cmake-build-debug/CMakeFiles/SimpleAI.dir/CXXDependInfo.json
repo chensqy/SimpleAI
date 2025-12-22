@@ -1,0 +1,27 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"database-info" : null,
+	"dir-cur-bld" : "H:/Users/C++/CLionProjects/SimpleAI/cmake-build-debug",
+	"dir-cur-src" : "H:/Users/C++/CLionProjects/SimpleAI",
+	"dir-top-bld" : "H:/Users/C++/CLionProjects/SimpleAI/cmake-build-debug",
+	"dir-top-src" : "H:/Users/C++/CLionProjects/SimpleAI",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "H:/Users/C++/CLionProjects/SimpleAI/cmake-build-debug/CMakeFiles/SimpleAI.dir",
+	"sources" : 
+	{
+		"CMakeFiles/SimpleAI.dir/main.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "H:/Users/C++/CLionProjects/SimpleAI/main.cpp"
+		}
+	}
+}
